@@ -1,3 +1,5 @@
+# Branch Updation
+
 - `git checkout main/master`
 - `get fetch -p origin`
 - `get merge origin/main`
